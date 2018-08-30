@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Jenkins CICD Project<tille>
+    <title>Jenkins CICD Project<title>
   </head>
 <body>
 <h2>Hello World!</h2>
